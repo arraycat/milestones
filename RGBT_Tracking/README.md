@@ -13,4 +13,5 @@ Asym, infrared and visible images have different token numbers.
 
 
 ## TODO
+- [ ] with modal complementary mask
 - [ ] Padding multiple templates with the search area into one image. Use W-MSA, SW-MSA directly.
