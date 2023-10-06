@@ -12,6 +12,11 @@ head->Decoder, as seqtrack.
 Asym, infrared and visible images have different token numbers. 
 
 
+### 2023/10/01
+Expand CE of OSTrack to RGB-T. 
+Asym online template update. 
+
+
 ## TODO
 - [ ] with modality complementary mask
 - [ ] Padding multiple templates with the search area into one image. Use W-MSA, SW-MSA directly.
