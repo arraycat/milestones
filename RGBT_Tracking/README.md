@@ -13,7 +13,8 @@ Asym, infrared and visible images have different token numbers.
 
 
 ### 2023/10/01
-Expand CE of OSTrack to RGB-T. 
+Expand CE of OSTrack to RGB-T.  
+
 Asym online template update. 
 
 
