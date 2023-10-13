@@ -18,6 +18,13 @@ Expand CE of OSTrack to RGB-T.
 Asym online template update. 
 
 
+
+### 2023/10/10
+Random mask of search region. 
+
+
+
+
 ## TODO
-- [ ] with modality complementary mask
+- [x] with modality complementary mask
 - [ ] Padding multiple templates with the search area into one image. Use W-MSA, SW-MSA directly.
